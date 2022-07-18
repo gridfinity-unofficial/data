@@ -1,11 +1,11 @@
 {
-  "model": {
-    "id": "",  
-    "name": "",
-    "creator": "",
-    "license": "",
-    "url": "",
-    "description": "",
-    "image_url": ""
-  }
+    "modelid rand u64 here": {
+        "id": "",
+        "name": "",
+        "creator": "",
+        "license": "",
+        "url": "",
+        "image_url": "",
+        "description": ""
+    }
 }
