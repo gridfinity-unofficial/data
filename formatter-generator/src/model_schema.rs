@@ -13,7 +13,9 @@ pub struct Model {
     #[serde(with = "url_serde")]
     image_url: Url,
     description: String,
-    category: String
+    category: String,
+    grid_x: usize,
+    grid_y: usize
 }
 
 impl Model {
@@ -40,8 +42,8 @@ impl Model {
                             image_url: image_url,
                             description: description,
                             category: category,
-                            grid_x: usize,
-                            grid_y: usize
+                            grid_x: grid_x,
+                            grid_y: grid_y
                         });
                     },
                     Err(_) => {
