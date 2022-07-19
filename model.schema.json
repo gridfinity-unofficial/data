@@ -6,6 +6,9 @@
         "license": "",
         "url": "",
         "image_url": "",
-        "description": ""
+        "description": "",
+        "category":"",
+        "grid_x": "",
+        "grid_y": ""
     }
 }

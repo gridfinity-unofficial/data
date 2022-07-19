@@ -27,10 +27,13 @@ pub fn from_url(url: String) -> Option<Model> {
                     return Model::new(
                         model_data["name"].to_string().replace("\\", "").replace("\"", "").trim().into(),
                         model_data["owner"]["username"].to_string().replace("\\", "").replace("\"", ""),
-                        "unpopulated".into(),
+                        "unimplemented".into(),
                         url.replace("\\", "").replace("\"", ""),
                         model_data["parts"][0]["thumbnailUrl"].to_string().replace("\\", "").replace("\"", ""),
-                        model_data["description"].to_string().replace("\\n", "\n").replace("\\", "").replace("\"", "").trim().into()
+                        model_data["description"].to_string().replace("\\n", "\n").replace("\\", "").replace("\"", "").trim().into(),
+                        "unimplemented".into(),
+                        0,
+                        0
                     );
                 }
             },

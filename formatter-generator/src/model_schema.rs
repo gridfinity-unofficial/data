@@ -12,7 +12,8 @@ pub struct Model {
     url: Url,
     #[serde(with = "url_serde")]
     image_url: Url,
-    description: String
+    description: String,
+    category: String
 }
 
 impl Model {
@@ -23,7 +24,7 @@ impl Model {
     pub fn to_json(self) -> String {
         return serde_json::to_string_pretty(&self).unwrap();
     }
-    pub fn new(name: String, creator: String, license: String, url: String, image_url: String, description: String) -> Option<Model> {
+    pub fn new(name: String, creator: String, license: String, url: String, image_url: String, description: String, category: String, grid_x: usize, grid_y: usize) -> Option<Model> {
         match Url::parse(url.as_str()) {
             Ok(url) => {
                 match Url::parse(image_url.as_str()) {
@@ -37,7 +38,10 @@ impl Model {
                             license: license,
                             url: url,
                             image_url: image_url,
-                            description: description
+                            description: description,
+                            category: category,
+                            grid_x: usize,
+                            grid_y: usize
                         });
                     },
                     Err(_) => {
