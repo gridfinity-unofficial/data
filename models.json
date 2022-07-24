@@ -11,6 +11,18 @@
     "grid_x": 2,
     "grid_y": 4
   },
+  "13063800094719073018": {
+    "id": 13063800094719073018,
+    "name": "Gridfinity Drawers",
+    "creator": "Machenna56k",
+    "license": "unimplemented",
+    "url": "https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20Drawers-188528",
+    "image_url": "https://storage.googleapis.com/thangs-thumbnails/production/35b236e9-3cb2-4950-9e08-f0bbaa42f37f/Gridfinity_Drawers_Body.png",
+    "description": "2x3x7.4mm Gridfinity Drawers.\n\nTested in PLA, printed with body cavity facing upwards and with only tiny supports between the gridfinity rows on a Elegoo Neptune 2 model.\n\nSuggest minimal cubic infill (5-10%) with 3-4 outer walls.\n\n * Added drawer model with thicker walls.\n* Refined drawer model for a better fit into the slots horizontally.\n* Added two-compartment drawer model.\n* Added drawer with a tighter horizontal fit.\n* Added double-height drawer model.\n* Added Minifinity drawer model.\n\n* Organize your Gridfinity Drawers with Minifinity!\nhttps://social.thangs.com/m/195636\n\nGridfinity concept by Zack Freedman",
+    "category": "small storage",
+    "grid_x": 2,
+    "grid_y": 2
+  },
   "13124435895481119691": {
     "id": 13124435895481119691,
     "name": "Gridfinity Mintion Beagle Cam Mount",
@@ -20,6 +32,30 @@
     "image_url": "https://storage.googleapis.com/thangs-thumbnails/production/0f068199-de7a-4b0b-af8e-7f7ce58b0dd3/Beagle_Cam_Holder_Base.png",
     "description": "Add the easiest way to make 3D printing time lapses to the bestest storage system. Works great with [printer mount baseplates!](https://social.thangs.com/m/60929?utm_source=youtube\u0026utm_medium=video\u0026utm_campaign=zack_f)\n\nGridfinity is the ultimate organizer for your whole workshop! Learn more at  \nFind more Gridfinity accessories at https://bit.ly/3E2NxnZ\n\nParametric source file: \nhttps://a360.co/3I8joWp\n\nFor stability during time lapses, I HIGHLY recommend using magnets or screws to attach this to the baseplate.\nMagnets: https://amzn.to/3nzQUv7\n\nPrint one base and two pegs. Glue the pegs into the base holes, taking care to align the notched end with the groove on the underside!\n\n**Gridfinity Tips!**\n- All storage blocks are compatible with all baseplates!\n- Most storage blocks are stackable!\n- You can add 6x2mm magnets to the corners! They won't magnetize the contents.\n- You can also use M3 screws in the corners.",
     "category": "printing accessories",
+    "grid_x": 3,
+    "grid_y": 2
+  },
+  "13401556728641201534": {
+    "id": 13401556728641201534,
+    "name": "Gridfinity | Swinging Drawer",
+    "creator": "Machenna56k",
+    "license": "unimplemented",
+    "url": "https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Swinging%20Drawer-201480",
+    "image_url": "https://storage.googleapis.com/thangs-thumbnails/production/b909991f-4267-4a6e-bf88-160e8e8d3136/e3fb00701e2970cc2cd5957334de508e0e681086e73ceee3751d07cfc1365cd5/Gridfinity_SiwingDrawer_Drawer.png",
+    "description": "A 3x3x1u Gridfinity Swing-Out Drawer.\n\nSuggest printing with the drawer with body cavity facing upwards, and no supports.  Suggest printing body vertically, with the angled bridge pieces near the bottom, and no supports.\n\nGridfinity concept by Zack Freedman.",
+    "category": "small storage",
+    "grid_x": 3,
+    "grid_y": 3
+  },
+  "1401637683713221574": {
+    "id": 1401637683713221574,
+    "name": "Gridfinity | Door'd Container",
+    "creator": "Machenna56k",
+    "license": "unimplemented",
+    "url": "https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Door%27d%20Container-200852",
+    "image_url": "https://storage.googleapis.com/thangs-thumbnails/production/5718009f-4d34-467c-8bdb-b77d5f1632de/Gridfinity_DoorBox_Body.png",
+    "description": "A 2x2x5.36cm Gridfinity container with a door that swings downward.\n\nSuggest printing with standard profile, body piece with body cavity facing upward, and the door vertically with the fat, pegged part on the bottom, using generated supports, touching buildplate only at 1% support density.",
+    "category": "small storage",
     "grid_x": 2,
     "grid_y": 2
   },
@@ -71,6 +107,18 @@
     "grid_x": 1,
     "grid_y": 1
   },
+  "1869004727623944938": {
+    "id": 1869004727623944938,
+    "name": "Gridfinity | Tiered Bins",
+    "creator": "Machenna56k",
+    "license": "unimplemented",
+    "url": "https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Tiered%20Bins-206465",
+    "image_url": "https://storage.googleapis.com/thangs-thumbnails/production/75894cea-5623-497c-9107-e0dd7cd0cb75/tiered_short_sm.png",
+    "description": "A 1x1 set of Gridfinity bins, sized so that they line up to form tiered rows when arrange by height.\n\nSuggest standard printing profiles.\n\nGridfinity by Zack Freedman.",
+    "category": "small storage",
+    "grid_x": 1,
+    "grid_y": 1
+  },
   "1975133419418082752": {
     "id": 1975133419418082752,
     "name": "Gridfinity Collet Holder Collet-ction",
@@ -81,6 +129,18 @@
     "description": "CNC collet storage blocks for the Gridfinity modular workshop storage system - they're both ER11 for now.\n\nGridfinity is the ultimate organizer for your whole workshop! Learn more at \nFind more Gridfinity accessories at https://bit.ly/3E2NxnZ\n\nParametric source files: \n- Stupid Version: https://a360.co/3JznS7x\n- Non-Stupid Version: https://a360.co/3M0PDar\n\nThese bad boys hold CNC collets - I only have an ER11 Snapmaker, so that's what ya get.\n\n**The stupid version** holds collets in their little yellow boxes.\n\n**The non-stupid version** holds the collets without the boxes.\n\nThere's no reason to use the stupid version. Just remember to keep the collets nice and oiled to prevent rust.\n\n**Gridfinity Tips!**\n- No brims or support required! \n- Use any filament with an 0.6mm or smaller nozzle. \n- Wider bins can curl, so maximize your bed adhesion if you're going big!\n- All storage blocks are compatible with all baseplates!\n- Most storage blocks are stackable!\n- You can add 6x2mm magnets to the corners! They won't magnetize the contents.\n- You can also use M3 screws in the corners.",
     "category": "tool holders",
     "grid_x": 1,
+    "grid_y": 3
+  },
+  "2105299413204494715": {
+    "id": 2105299413204494715,
+    "name": "Gridfinity | Paper Towel Roll",
+    "creator": "Machenna56k",
+    "license": "unimplemented",
+    "url": "https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Paper%20Towel%20Roll-201112",
+    "image_url": "https://storage.googleapis.com/thangs-thumbnails/production/7925821b-61e9-4c45-a874-919ca0987602/Gridfinity_PaperTowel.png",
+    "description": "A 3x3x32cm Paper Towel Roll holder for your  Gridfinity arrangement.\n\nSuggest standard profiles with 25%-50% infill. There is a thicc area at the bottom of the dowel for increased strength.\n\nGridfinity concept by Zack Freedman",
+    "category": "tool holders",
+    "grid_x": 3,
     "grid_y": 3
   },
   "2325264059254841419": {
@@ -95,6 +155,18 @@
     "grid_x": 1,
     "grid_y": 1
   },
+  "2614035181589644546": {
+    "id": 2614035181589644546,
+    "name": "Gridfinity | Can Holder",
+    "creator": "Machenna56k",
+    "license": "unimplemented",
+    "url": "https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Can%20Holder-203582",
+    "image_url": "https://storage.googleapis.com/thangs-thumbnails/production/a4a47142-91fd-4ba8-a7e5-bed6be59045f/Gridfinity_Cupholder_Tall.png",
+    "description": "A 2x2x1u Can holder for your Gridfinity setup.  Short and Tall versions available.\n\nSuggest printing using standard profiles using no supports.\n\nGridfinity by Zack Freedman",
+    "category": "",
+    "grid_x": 2,
+    "grid_y": 2
+  },
   "2905189360953175320": {
     "id": 2905189360953175320,
     "name": "Gridfinity Caliper Holder",
@@ -106,6 +178,16 @@
     "category": "tool holders",
     "grid_x": 1,
     "grid_y": 2
+  },
+  "292010053461513617": {
+    "id": 292010053461513617,
+    "name": "Minifinity  |  Gridfinity Drawers Baseplate",
+    "creator": "Machenna56k",
+    "license": "unimplemented",
+    "url": "https://thangs.com/designer/Machenna56k/3d-model/Minifinity%20%20%7C%20%20Gridfinity%20Drawers%20Baseplate-195636",
+    "image_url": "https://storage.googleapis.com/thangs-thumbnails/production/5dc32011-6a81-42f4-8fdb-982f6598a71c/555a978b365aaa20a8588b6607abf142b37b000eecb0712952fdef6891e4dba5/Minifinity_Baseplate_4x6.png",
+    "description": "Introducing the most useless Gridfinity accessory-for-an-accessory yet: Minifinity.\n\nAre you finding your Gridfinity Drawers to be untidy?  Organize them with Minifinity!\n\n**Simply print this baseplate (I suggest MSLA machines), and then print your favorite Gridfinity modules at 42% for a perfect fit into Minifinity.**\n\n* Download and print Gridfinity Drawers here!\nhttps://social.thangs.com/m/188528",
+    "category": "minifinity"
   },
   "3123251795451777236": {
     "id": 3123251795451777236,
@@ -119,6 +201,18 @@
     "grid_x": 1,
     "grid_y": 2
   },
+  "5250960032587307637": {
+    "id": 5250960032587307637,
+    "name": "Gridfinity | Phone Stand",
+    "creator": "Machenna56k",
+    "license": "unimplemented",
+    "url": "https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Phone%20Stand-202765",
+    "image_url": "https://storage.googleapis.com/thangs-thumbnails/production/fccf6a2a-56e6-42ec-b209-b219dc994ee3/Gridfinity_PhoneStand.png",
+    "description": "A 2x2x1.5u Gridfinity module with a stylish phone stand.  Looks great in wood-fill PLA. \n\nSuggest printing with standard printing profiles with auto-generated supports at 0%-1% dentsity.",
+    "category": "",
+    "grid_x": 2,
+    "grid_y": 2
+  },
   "591169165783421964": {
     "id": 591169165783421964,
     "name": "Gridfinity Printer-Mounted Baseplates",
@@ -128,6 +222,18 @@
     "image_url": "https://storage.googleapis.com/thangs-thumbnails/production/ab7a66dd-445f-45e7-96af-60ef11e9bdb4/Anycubic_Baseplate%2C_Sidecar.png",
     "description": "Mount storage right to your printer with the Gridfinity modular workshop storage system - whatever machine you use!\n\nGridfinity is the ultimate organizer for your whole workshop! Learn more at \nFind more Gridfinity accessories at https://bit.ly/3E2NxnZ\n\nParametric source files: \n- Anycubic Sidecar: https://a360.co/3xonYw4\n- Anycubic Top: https://a360.co/3jy22GN\n- Lulzbot: https://a360.co/3xobNzx\n- Prusa: https://a360.co/3Jzfp47\n- Snapmaker: https://a360.co/37Om65m\n- E3D Toolchanger: https://a360.co/3rlmn6K\n\nThese brackets mount to your 3D printer and allow you to put Gridfinity storage blocks right where you need them! These work especially well for the [Gridfinity 3D-printer accessory kit](https://bit.ly/3jtTfWu).\n\nIf you need more adjacent slots, just print multiple baseplates and butt them up against each other. *I STRONGLY recommend magnets or screws so you don't knock stuff into your printer!*\n\n**Anycubic Vyper/Kobra**: Also fits any printer made of extrusion with 6mm slots. Mount to your printer's frame with [M5 hammer nuts for 6mm slots](https://amzn.to/3jzbOZb) and [M5x12mm countersunk screws](https://amzn.to/3xoGLHV). Remember to measure countersunk screws from the TOP OF THE HEAD!\n\nThe **sidecar** baseplate mounts to the base frame, parallel with the floor, a lot like the included filament holder. The **top-mount** baseplate mounts on the Z axis crossbeam or base frame. *Make sure the gantry, extruder, and plate don't collide with your Gridfinity!*\n\n**Lulzbot**: Fits the upward-facing edges of the top crossbars. This one is a real pain in the butt to install.\n\n**Prusa**: Slides on over the steel frame, no fasteners required. *THE BASEPLATE AND EXTRUDER MUST BE ON OPPOSITE SIDES OF THE FRAME!*\n\n**Snapmaker**: Mount to the optional enclosure with [M5 hammer nuts for 6mm slots](https://amzn.to/3jzbOZb) and [M5x12mm countersunk screws](https://amzn.to/3xoGLHV). Remember to measure countersunk screws from the TOP OF THE HEAD! I didn't make one for the printer itself, sorry!\n\n**Toolchanger**: Mount to the top of the printer with three button head M3x5 screws. *Don't use longer screws! They won't fit!*\n\n**Gridfinity Tips!**\n- No brims or support required! \n- Use any filament with an 0.6mm or smaller nozzle. \n- Wider bins can curl, so maximize your bed adhesion if you're going big!\n- All storage blocks are compatible with all baseplates!\n- Most storage blocks are stackable!\n- You can add 6x2mm magnets to the corners! They won't magnetize the contents.\n- You can also use M3 screws in the corners.",
     "category": "baseplates",
+    "grid_x": 1,
+    "grid_y": 1
+  },
+  "6855048082841050": {
+    "id": 6855048082841050,
+    "name": "Gridfinity Ring \u0026 Washer Collectors",
+    "creator": "Machenna56k",
+    "license": "unimplemented",
+    "url": "https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20Ring%20\u0026%20Washer%20Collectors-197424",
+    "image_url": "https://storage.googleapis.com/thangs-thumbnails/production/362c4646-c99a-4c18-aad4-95e8317f14fb/1x1x3_Ring_Peg.png",
+    "description": "A set of 1x1x3 \u0026 1x1x6 modules with a slightly sloped cylinder extruding from the center.  Perfect for organizing keyrings at a jewelry workstation.\n",
+    "category": "small storage",
     "grid_x": 1,
     "grid_y": 1
   },
@@ -143,6 +249,18 @@
     "grid_x": 1,
     "grid_y": 2
   },
+  "7652823233724898706": {
+    "id": 7652823233724898706,
+    "name": "Gridfinity |  Long Drawer",
+    "creator": "Machenna56k",
+    "license": "unimplemented",
+    "url": "https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20%20Long%20Drawer-200173",
+    "image_url": "https://storage.googleapis.com/thangs-thumbnails/production/3c476c2f-8ec2-4831-a11d-b431bc63f8ba/Gridfinity_LongDrawer_Body.png",
+    "description": "A 1x3x3 Drawer in a looooong format, based upon the Gridfinity framework developed by Zack Freedman.\n\nSuggest standard printing profiles for the chest, printed with body cavity facing upwards (tall and skinny-like), and printing the drawer piece with the body cavity facing upwards (trough-style) as well.",
+    "category": "small storage",
+    "grid_x": 1,
+    "grid_y": 3
+  },
   "7723860215231374552": {
     "id": 7723860215231374552,
     "name": "Parametric Gridfinity Syringe Stand",
@@ -154,6 +272,18 @@
     "category": "parametric",
     "grid_x": 1,
     "grid_y": 1
+  },
+  "7806351340561536309": {
+    "id": 7806351340561536309,
+    "name": "Gridfinity Flip-Top Container",
+    "creator": "Machenna56k",
+    "license": "unimplemented",
+    "url": "https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20Flip-Top%20Container-192949",
+    "image_url": "https://storage.googleapis.com/thangs-thumbnails/production/3b1ca021-81fd-434d-870d-4606ac2afd8a/FlipUp_Bottom.png",
+    "description": "A 1x3x3 flip-top, snap-held container based upon the Gridfinity framework developed by Zack Freedman.\n\nSuggest standard printing profiles with no supports for the bottom piece, and to print the top piece vertically with the fat part on the bottom, using minimal supports under the fat part.\n\n",
+    "category": "small storage",
+    "grid_x": 1,
+    "grid_y": 3
   },
   "7835732351879715263": {
     "id": 7835732351879715263,
@@ -177,6 +307,18 @@
     "description": "Straighten out your workshop with Gridfinity modular storage - deploy these plates anywhere you need some order!\n\nGridfinity is the ultimate organizer for your whole workshop! Learn more at \nFind more Gridfinity accessories at https://bit.ly/3E2NxnZ\n\nParametric source files: \n- Frame: https://a360.co/3ccHbsg\n- Weighted Plate: https://a360.co/3uCJ2gR\n\nThe foundation of every Gridfinity setup is a baseplate, and these let you drop storage where you need it most.\n\n**Frame**: The absolutely minimal no-frills baseplate. No room for screws or magnets, but saves filament and headroom. If your storage unit is on a steel surface, you can still put magnets in the storage blocks to keep them from sliding.\n\n**Weighted**: Heavy, sturdy baseplate perfect for desktops, shelves, and other places where knocking stuff over is a big problem. \n\nSecure blocks permanently with [M3 screws,](https://amzn.to/37IaXTg) or temporarily with [6x2mm magnets](https://amzn.to/37Ihopq). Add [rubber feet](https://amzn.to/3LZv4v5) to keep the whole shebang from sliding, and [metal tire weights ](https://amzn.to/3uAzH9f)to drop the center of gravity and prevent wipeouts. You don't need to install every magnet, foot, and weight! Just use enough for your needs.\n\nA Prusa i3 Mk3 can print up to a 5x5 grid. No matter what you use, make sure your bed adhesion and release is dialed in - these love to curl, and their high surface area can make them challenging to remove.\n\n**Gridfinity Tips!**\n- No brims or support required! \n- Use any filament with an 0.6mm or smaller nozzle. \n- Wider plates can curl, so maximize your bed adhesion if you're going big!\n- All storage blocks are compatible with all baseplates!\n- Most storage blocks are stackable!\n- You can add 6x2mm magnets to the corners! They won't magnetize the contents.\n- You can also use M3 screws in the corners.",
     "category": "baseplates",
     "grid_x": 1,
+    "grid_y": 1
+  },
+  "8648681654930762294": {
+    "id": 8648681654930762294,
+    "name": "Gridfinity | Press n' Open Bin",
+    "creator": "Machenna56k",
+    "license": "unimplemented",
+    "url": "https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Press%20n%27%20Open%20Bin-204286",
+    "image_url": "https://storage.googleapis.com/thangs-thumbnails/production/12d8d3f0-59e7-44a8-a63e-b8da573edd3a/ca7c7fa6a4d2a6a2215302a633cfd30abcd1d3584a116592e46adfff3b296b54/Flip2_Bottom-Divided.png",
+    "description": "A 2x1x1u Flip-top container that is opened by gently pressing at the back-top of the bin. Suggest standard printing profiles with 2-3 walls and top layers.\n\nGridfinity by Zack Freedman.",
+    "category": "small storage",
+    "grid_x": 2,
     "grid_y": 1
   },
   "8760752383244820555": {
