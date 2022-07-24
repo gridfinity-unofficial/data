@@ -1,24 +1,4 @@
 {
-  "10454153048795627685": {
-    "id": 10454153048795627685,
-    "name": "Gridfinity Ratchet + Socket Holders",
-    "creator": "ZackFreedman",
-    "license": "unimplemented",
-    "url": "https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Ratchet%20+%20Socket%20Holders-60906",
-    "image_url": "https://storage.googleapis.com/thangs-thumbnails/production/78aa9cf5-1f57-4965-b2e5-f6ee1e6f088a/Socket_Holder%2C_Metric%2C_Non-Stackable.png",
-    "description": "Socket organizers and ratchet holders for the Gridfinity modular workshop storage system!\n\nGridfinity is the ultimate organizer for your whole workshop! Learn more at \nFind more Gridfinity accessories at https://bit.ly/3E2NxnZ\n\nParametric source files: \n- 1/4\" Imperial holder: https://a360.co/37cdZPW\n- 1/4\" Metric holder: https://a360.co/3vgUAFq\n- Mulwark ratchet holder: https://a360.co/3OiHhNJ\n\nThese holders store your socket sets and ratchet drivers. They orient the tools to make them easier to find and grab the bit you need!\n\n**1/4\" Imperial and Metric Holders**: Designed for Harbor Freight 10-piece 1/4\"-socket kits, but should fit many others.\n\n**1/4\" Universal Holder**: Has ten 20mm-diameter slots. Note that this is five slots wide, while the Imperial and Metric versions are four slots wide.\n\n**Mulwark Holder**: Fits the [Mulwark-brand low-profile ratchet driver](https://amzn.to/3v6BPEw), the 20pc bit kit, and has slots for 13 more hex bits. I strongly recommend buying the bit kit - a low-profile ratchet needs low-profile bits!\n\nPrint the ones that work with your stuff!\n\n**Gridfinity Tips!**\n- No brims or support required! \n- Use any filament with an 0.6mm or smaller nozzle. \n- Wider bins can curl, so maximize your bed adhesion!\n- All storage blocks are compatible with all baseplates!\n- Most storage blocks are stackable!\n- You can add 6x2mm magnets to the corners! They won't magnetize the contents.\n- You can also use M3 screws in the corners!",
-    "category": ""
-  },
-  "10802724091880366091": {
-    "id": 10802724091880366091,
-    "name": "Gridfinity Nippers + Strippers + Pliers Racks",
-    "creator": "ZackFreedman",
-    "license": "unimplemented",
-    "url": "https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Nippers%20+%20Strippers%20+%20Pliers%20Racks-61120",
-    "image_url": "https://storage.googleapis.com/thangs-thumbnails/production/f27fd742-0083-4185-8498-1d74b6057275/Nipper_Holder_x6.png",
-    "description": "Safely grab the right tool with the Gridfinity modular workshop storage system!\n\nGridfinity is the ultimate organizer for your whole workshop! Learn more at https://www.youtube.com/watch?v=ra_9zU-mnl8\nFind more Gridfinity accessories at https://bit.ly/3E2NxnZ\n\nParametric source files: \n- Nipper Holder: https://a360.co/37jchw3\n- Stripper Holder: https://a360.co/3Erq2oV\n\nThese racks pack tons of hand tools into a small area, positioned so you can safely see and grab the business ends. These work great for nippers, flush cutters, wire strippers, pliers, scissors, crimpers, nibblers, cutters, and punch-down tools.\n\n*These storage blocks are extra-big and tend to curl! Use a brim and ensure good bed adhesion.* \n\n**Nipper Holder**: Holds six tools about 80mm from handle to handle. If the tool is spring-loaded, the undercut will keep it from falling out. This can be mounted sideways to store five tools.\n\n**Stripper Holder**: Holds two wire strippers or other long, slim hand tools up to 18mm thicc. I've prepared two sizes - 200mm is your usual multi-hole wire stripper, and 160mm fits many crimpers and termination tools. Both should fit on most printers.\n\n**Gridfinity Tips!**\n- Use any filament with an 0.6mm or smaller nozzle. \n- All storage blocks are compatible with all baseplates!\n- Most storage blocks are stackable!\n- You can add 6x2mm magnets to the corners! They won't magnetize the contents.\n- You can also use M3 screws in the corners.",
-    "category": ""
-  },
   "11959369588327473690": {
     "id": 11959369588327473690,
     "name": "Gridfinity iFixit Mako + ES121 Screwdriver Holders",
@@ -54,16 +34,6 @@
     "category": "tool holders",
     "grid_x": 2,
     "grid_y": 2
-  },
-  "14187613772285198403": {
-    "id": 14187613772285198403,
-    "name": "Gridfinity Pick + Tweezer Racks",
-    "creator": "ZackFreedman",
-    "license": "unimplemented",
-    "url": "https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Pick%20+%20Tweezer%20Racks-60742",
-    "image_url": "https://storage.googleapis.com/thangs-thumbnails/production/e6d0505c-0ddd-4715-82ee-a9eebca0e085/Chonk_Rack_Illustration_-_Dont_Print.png",
-    "description": "Pointy boi storage for the Gridfinity modular workshop storage system - saves space and delicate fingies!\n\nGridfinity is the ultimate organizer for your whole workshop! Learn more at \nFind more Gridfinity accessories at https://bit.ly/3E2NxnZ\n\nParametric source files: \n- Pick Rack: https://a360.co/3JCOrIS\n- Chonk Rack: https://a360.co/3xgYhO9\n- Tweezer Rack: https://a360.co/3uxC0dd\n\nThese racks store long, pointy objects at an angle... but angle the business ends away from pokey fingers.\n\nThese are all two-part models. Print an Upper and a Lower and glue 'em together.\n\n- The Pick Rack is perfect for slender tools like picks and files.\n- The Chonk Rack is for thiccer tools (hey-o) like scrapers, forceps, and spring tweezers.\n-  The Twizzles Rack holds tweezers. I call them twizzles because I think it's funny.\n\nThe Twizzles Rack Upper is the only piece that needs support.\n\n**Gridfinity Tips!**\n- No brims or support required! \n- Use any filament with an 0.6mm or smaller nozzle. \n- Wider bins can curl, so maximize your bed adhesion if you're going big!\n- All storage blocks are compatible with all baseplates!\n- Most storage blocks are stackable!\n- You can add 6x2mm magnets to the corners! They won't magnetize the contents.\n- You can also use M3 screws in the corners.",
-    "category": ""
   },
   "16788891872429463455": {
     "id": 16788891872429463455,
@@ -121,7 +91,9 @@
     "url": "https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Pinecil%20+%20TS100%20Tips%20and%20Tool%20Holder-201815",
     "image_url": "https://storage.googleapis.com/thangs-thumbnails/production/48026222-232d-4804-acda-26e5bdc29b1e/Pinecil_Extra_Tips_w_Magnet.png",
     "description": "Store your spare soldering tips, screwdriver, and screws!\n\nThis **DOES NOT** hold the handle! Print one of these models too!\n- Pinecil: https://social.thangs.com/m/73357\n- TS100: https://social.thangs.com/m/62805\n\nGridfinity is the ultimate organizer for your whole workshop! Learn more at  \nFind more Gridfinity accessories at https://bit.ly/3E2NxnZ\n\nParametric source file: \nhttps://a360.co/3PkMsNb\n\nI have no self-control, so when I bought my Pinecil, I also bought both sets of tips. The existing holders only handle four, so I whipped this up. Both versions hold a screwdriver or hex bit to deal with the tip retaining screw. \n\n**Tips w Magnet:** Has a dished recess that fits the same 6x2mm magnets as the Gridfinity sockets. Perfect for securing the grounding or retaining screws between jobs.\n\n**Tips w Magnet:** Replaces the magnet with storage for a fifth tip.\n\nThis block has a high center of gravity, so I strongly recommend mounting it to [a weighted baseplate](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Baseplates-60925?manualModelView=true) using magnets or screws!\n\n**Gridfinity Tips!**\n- All storage blocks are compatible with all baseplates!\n- Most storage blocks are stackable!\n- You can add 6x2mm magnets to the corners! They won't magnetize the contents.\n- You can also use M3 screws in the corners. ",
-    "category": ""
+    "category": "",
+    "grid_x": 1,
+    "grid_y": 1
   },
   "2905189360953175320": {
     "id": 2905189360953175320,
@@ -227,7 +199,9 @@
     "url": "https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20iFixit%20Mako%20+%20ES121%20Screwdriver%20Holders-60744",
     "image_url": "https://storage.googleapis.com/thangs-thumbnails/production/d4a7e279-f641-4c01-809f-586ef9966f61/iFixit_Driver_Set_Gen_2_Holder.png",
     "description": "Maker-favorite screwdriver storage blocks for the Gridfinity modular workshop storage system - multiple options to fit your machine shop!\n\nGridfinity is the ultimate organizer for your whole workshop! Learn more at \nFind more Gridfinity accessories at https://bit.ly/3E2NxnZ\n\nParametric source files: \n- ES121 Holder: https://a360.co/3KLQziI\n- Gen 1 Holder: https://a360.co/3rj30Li\n- Gen 2 Holder: https://a360.co/3jxCNVb\n\nThese holders store the popular, high-quality iFixit Mako screwdriver kit, the old-skool iFixit screwdriver set, and the ES121 open-hardware electric screwdriver. Open-source screwdriver, what a time to be alive.\n\nPrint the ones that work with your stuff!\n\n**Gridfinity Tips!**\n- No brims or support required! \n- Use any filament with an 0.6mm or smaller nozzle. \n- Wider bins can curl, so maximize your bed adhesion if you're going big!\n- All storage blocks are compatible with all baseplates!\n- Most storage blocks are stackable!\n- You can add 6x2mm magnets to the corners! They won't magnetize the contents.\n- You can also use M3 screws in the corners.",
-    "category": ""
+    "category": "tool holders",
+    "grid_x": 2,
+    "grid_y": 4
   },
   "9165983091551382590": {
     "id": 9165983091551382590,
