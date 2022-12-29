@@ -368,5 +368,29 @@
     "category": "tool holders",
     "grid_x": 3,
     "grid_y": 3
+  },
+  "6763196792352536101":{
+    "id": 6763196792352536101,
+    "name": "Dual-Height Tweezers & Feeler Gauge Holder",
+    "creator": "Jessica Mauerhan",
+    "license": "",
+    "url": "https://www.printables.com/model/292781-gridfinity-dual-height-tweezers-feeler-gauge-holde",
+    "image_url": "https://media.printables.com/media/prints/292781/images/2572099_287cd0b2-f623-425c-b6e1-37e90fcb042d/thumbs/cover/1280x960/jpg/pxl_20221010_224312739portrait.webp",
+    "description": "Gridfinity compatible holder for two tall thin items and two shorter thin items, such as tweezers and feeler guage!",
+    "category": "tool holders",
+    "grid_x": "1",
+    "grid_y": "1"
+  },
+  "6253505778236011554":{
+    "id": 6763196792352536101,
+    "name": "Nozzle Cleaning Kit Holder",
+    "creator": "Jessica Mauerhan",
+    "license": "",
+    "url": "https://www.printables.com/model/339385-gridfinity-nozzle-cleaning-kit-holder",
+    "image_url": "https://media.printables.com/media/prints/339385/images/2899095_5a5acbbc-fe55-4352-9e39-b853feeef762/thumbs/cover/1280x960/jpg/pxl_20221213_170536747.webp",
+    "description": "Gridfinity compatible holder for a nozzle brush, nozzle socket wrench tool, and tubes of cleaning pins.",
+    "category": "tool holders",
+    "grid_x": "1",
+    "grid_y": "1"
   }
 }
