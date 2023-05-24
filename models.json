@@ -392,5 +392,17 @@
     "category": "tool holders",
     "grid_x": "1",
     "grid_y": "1"
+  },
+  "6253505778236852159":{
+    "id": 6253505778236852159,
+    "name": "Gridfinity Collection Solid Bins for Customization (STEP Files)",
+    "creator": "scheff",
+    "license": "BSD License",
+    "url": "https://www.printables.com/model/374789-gridfinity-collection-solid-bins-for-customization",
+    "image_url": "https://media.printables.com/media/prints/374789/images/3153366_9c1d47c4-b327-4a36-9a4c-2fea05551fc0/thumbs/inside/1600x1200/jpg/pixiz-20-01-2023-14-42-05.webp",
+    "description": "Solid Bins for your Personal Project 1x1 to 5x5",
+    "category": "solid bins",
+    "grid_x": "1-5",
+    "grid_y": "1-5"
   }
 }
